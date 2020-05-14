@@ -14,6 +14,10 @@
         <module>spring-boot-test-logback</module>
         <module>spring-boot-test-log-aop</module>
         <module>spring-boot-test-exception-handler</module>
+        <module>spring-boot-test-thymeleaf</module>
+        <module>spring-boot-test-orm-jpa</module>
+        <module>spring-boot-test-orm-mybatis</module>
+        <module>spring-boot-test-orm-mybatis-mapper-page</module>
     </modules>
 
     <packaging>pom</packaging>
