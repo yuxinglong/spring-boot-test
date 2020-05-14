@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+spring:
+  profiles:
+    active: prod
+application:
+  name: aa
+  version: bb
+develop:
+  name: yuconding
+  website: http://yucoding.com
+  qq: 123456789
+  phone-number: 13511111111
