@@ -18,6 +18,7 @@
         <module>spring-boot-test-orm-jpa</module>
         <module>spring-boot-test-orm-mybatis</module>
         <module>spring-boot-test-orm-mybatis-mapper-page</module>
+        <module>spring-boot-test-mybatis-helper</module>
     </modules>
 
     <packaging>pom</packaging>
