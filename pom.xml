@@ -23,6 +23,7 @@
         <module>spring-boot-test-task-quartz</module>
         <module>spring-boot-test-swagger</module>
         <module>spring-boot-test-rabc-security</module>
+        <module>spring-boot-test-zookeeper</module>
     </modules>
 
     <packaging>pom</packaging>
