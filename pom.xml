@@ -19,6 +19,10 @@
         <module>spring-boot-test-orm-mybatis-mapper-page</module>
         <module>spring-boot-test-mybatis-helper</module>
         <module>spring-boot-test-cache-redis</module>
+        <module>spring-boot-test-task</module>
+        <module>spring-boot-test-task-quartz</module>
+        <module>spring-boot-test-swagger</module>
+        <module>spring-boot-test-rabc-security</module>
     </modules>
 
     <packaging>pom</packaging>
