@@ -24,6 +24,7 @@
         <module>spring-boot-test-swagger</module>
         <module>spring-boot-test-rabc-security</module>
         <module>spring-boot-test-zookeeper</module>
+        <module>spring-boot-test-mq-rabbitmq</module>
     </modules>
 
     <packaging>pom</packaging>
