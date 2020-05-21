@@ -25,6 +25,7 @@
         <module>spring-boot-test-rabc-security</module>
         <module>spring-boot-test-zookeeper</module>
         <module>spring-boot-test-mq-rabbitmq</module>
+        <module>spring-boot-test-websocket</module>
     </modules>
 
     <packaging>pom</packaging>
