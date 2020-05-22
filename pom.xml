@@ -26,6 +26,7 @@
         <module>spring-boot-test-zookeeper</module>
         <module>spring-boot-test-mq-rabbitmq</module>
         <module>spring-boot-test-websocket</module>
+        <module>spring-boot-test-async</module>
     </modules>
 
     <packaging>pom</packaging>
