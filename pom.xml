@@ -27,6 +27,7 @@
         <module>spring-boot-test-mq-rabbitmq</module>
         <module>spring-boot-test-websocket</module>
         <module>spring-boot-test-async</module>
+        <module>spring-boot-test-elasticsearch</module>
     </modules>
 
     <packaging>pom</packaging>
